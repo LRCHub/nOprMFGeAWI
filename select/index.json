@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "イーディーピー ～飛んで火に入る夏の君～",
+  "base_artist": "Radwimps",
+  "createdAt": "2025-12-16T17:59:43.015422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イーディーピー ～飛んで火に入る夏の君～",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_イーディーピー_~飛んで火に入る夏の君~_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "イーディーピー 〜飛んで火に入る夏の君〜",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/02_イーディーピー_〜飛んで火に入る夏の君〜_RADWIMPS.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "イーディーピー 〜飛んで火に入る夏の君〜",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_イーディーピー_〜飛んで火に入る夏の君〜_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "イーディーピー〜飛んで火に入る夏の君〜",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/04_イーディーピー〜飛んで火に入る夏の君〜_RADWIMPS.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イーディーピー ～飛んで火に入る夏の君～",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_イーディーピー_~飛んで火に入る夏の君~_RADWIMPS.txt"
+    }
+  ]
+}
